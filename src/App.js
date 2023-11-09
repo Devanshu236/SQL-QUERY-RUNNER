@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import toast, { Toaster } from "react-hot-toast";
-import Buttons from "./components/Buttons";
+
+import Buttons from "./components/Button";
 import PredefinedQuery from "./components/PredefinedQuery";
 import SqlEditor from "./components/SqlEditor";
 import Table from "./components/Table";
