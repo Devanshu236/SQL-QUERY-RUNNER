@@ -45,3 +45,4 @@ function Table({ query, headers, rows, csvData }) {
 }
 
 export default Table;
+  
